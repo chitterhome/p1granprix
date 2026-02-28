@@ -1,5 +1,3 @@
-
-
 # P1 GRAN PRIX
 ![P1 Gran Prix Logo](https://imgur.com/a/L0waRtO)
 P1 Grand Prix is a PvE tournament wherein a party of 4 will choose their enemies to try to eliminate them. The top teams will be the team that defeats the most enemies in the least amount of time with the most survivors. Each team will be able to study the enemies beforehand to determine the best way they can win. Every map, every monster will be the same for everyone. 
